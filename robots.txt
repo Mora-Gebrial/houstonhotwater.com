@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404.html
+Disallow: /admin/
+
+Sitemap: https://houstonhotwater.com/sitemap.xml
+Sitemap: https://houstonhotwater.com/blog_sitemap.xml
